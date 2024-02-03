@@ -1,217 +1,155 @@
-<p align="center">
-  <a href="https://www.budibase.com">
-    <img alt="Budibase" src="https://res.cloudinary.com/daog6scxm/image/upload/v1696515725/Branding/Assets/Symbol/RGB/Full%20Colour/Budibase_Symbol_RGB_FullColour_cbqvha_1_z5cwq2.svg" width="60" />
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p align="center" dir="auto">
+  <a href="https://www.budibase.com" rel="nofollow">
+    <img alt="布迪巴斯" src="https://camo.githubusercontent.com/049da656710518ddda6e2d17abf9acc666b32185772dd0f76daf47d25585ec11/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f64616f67367363786d2f696d6167652f75706c6f61642f76313639363531353732352f4272616e64696e672f4173736574732f53796d626f6c2f5247422f46756c6c253230436f6c6f75722f42756469626173655f53796d626f6c5f5247425f46756c6c436f6c6f75725f6362717668615f315f7a35637771322e737667" width="60" data-canonical-src="https://res.cloudinary.com/daog6scxm/image/upload/v1696515725/Branding/Assets/Symbol/RGB/Full%20Colour/Budibase_Symbol_RGB_FullColour_cbqvha_1_z5cwq2.svg" style="max-width: 100%;">
   </a>
 </p>
-<h1 align="center">
-  Budibase
-</h1>
-
-<h3 align="center">
-  The low code platform you'll enjoy using
-</h3>
-<p align="center">
-  Budibase is an open source low-code platform, and the easiest way to build internal apps that improve productivity.
-</p>
-
-<h3 align="center">
- 🤖 🎨 🚀
-</h3>
+<h1 align="center" tabindex="-1" dir="auto"><a id="user-content---budibase" class="anchor" aria-hidden="true" tabindex="-1" href="#--budibase"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+  布迪巴斯
+</font></font></h1>
+<h3 align="center" tabindex="-1" dir="auto"><a id="user-content---the-low-code-platform-youll-enjoy-using" class="anchor" aria-hidden="true" tabindex="-1" href="#--the-low-code-platform-youll-enjoy-using"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+  您会喜欢使用的低代码平台
+</font></font></h3>
+<p align="center" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+  Budibase 是一个开源低代码平台，可以帮助工程师节省数百个小时安全地构建表单、门户和审批应用程序。
+</font></font></p>
+<h3 align="center" tabindex="-1" dir="auto"><a id="user-content----" class="anchor" aria-hidden="true" tabindex="-1" href="#---"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+ 🤖🎨🚀
+</font></font></h3>
 <br>
-
-<p align="center">
-  <img alt="Budibase design ui" src="https://res.cloudinary.com/daog6scxm/image/upload/v1633524049/ui/design-ui-wide-mobile_gdaveq.jpg">
+<p align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9869ce671cd803d2594373a219e977acfcf6787772874def0e15a10ed3aea9b5/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f64616f67367363786d2f696d6167652f75706c6f61642f76313638303138313634342f75692f686f6d65706167652d64657369676e2d75695f73697a7037622e706e67"><img alt="布迪库设计用户界面" src="https://camo.githubusercontent.com/9869ce671cd803d2594373a219e977acfcf6787772874def0e15a10ed3aea9b5/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f64616f67367363786d2f696d6167652f75706c6f61642f76313638303138313634342f75692f686f6d65706167652d64657369676e2d75695f73697a7037622e706e67" data-canonical-src="https://res.cloudinary.com/daog6scxm/image/upload/v1680181644/ui/homepage-design-ui_sizp7b.png" style="max-width: 100%;"></a>
 </p>
-
-<p align="center">
+<p align="center" dir="auto">
   <a href="https://github.com/Budibase/budibase/releases">
-    <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/Budibase/budibase/total">
+    <img alt="GitHub 所有版本" src="https://camo.githubusercontent.com/8cd25afb97604bbba9d0fc1f99a4e043f51c75ead987c089f69399d61e798f09/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f646f776e6c6f6164732f42756469626173652f62756469626173652f746f74616c" data-canonical-src="https://img.shields.io/github/downloads/Budibase/budibase/total" style="max-width: 100%;">
   </a>
   <a href="https://github.com/Budibase/budibase/releases">
-    <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Budibase/budibase">
+    <img alt="GitHub 发布（按日期最新）" src="https://camo.githubusercontent.com/6fcbfb2302475727f2d2d27a4d0d255cca7bf0e6b8923dd12cf55d42bcae91ce/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f762f72656c656173652f42756469626173652f6275646962617365" data-canonical-src="https://img.shields.io/github/v/release/Budibase/budibase" style="max-width: 100%;">
   </a>
-  <a href="https://twitter.com/intent/follow?screen_name=budibase">
-    <img src="https://img.shields.io/twitter/follow/budibase?style=social" alt="Follow @budibase" />
+  <a href="https://twitter.com/intent/follow?screen_name=budibase" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/16068fed6aec44924a6ccd8bd79c40cc0ef407e4bc7bf9bb64d5b03f4fca10eb/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f62756469626173653f7374796c653d736f6369616c" alt="关注@budibase" data-canonical-src="https://img.shields.io/twitter/follow/budibase?style=social" style="max-width: 100%;">
   </a>
-  <img src="https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg" alt="Code of conduct" />
-  <a href="https://codecov.io/gh/Budibase/budibase">
-    <img src="https://codecov.io/gh/Budibase/budibase/graph/badge.svg?token=E8W2ZFXQOH"/>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/20fe195dfecc3508e105ec04e6a1acea97bd409201ac6ca09c07942c8a8e4ad2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f6e7472696275746f72253230436f76656e616e742d76322e3025323061646f707465642d6666363962342e737667"><img src="https://camo.githubusercontent.com/20fe195dfecc3508e105ec04e6a1acea97bd409201ac6ca09c07942c8a8e4ad2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f6e7472696275746f72253230436f76656e616e742d76322e3025323061646f707465642d6666363962342e737667" alt="行为守则" data-canonical-src="https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg" style="max-width: 100%;"></a>
+  <a href="https://codecov.io/gh/Budibase/budibase" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/03fffb55310c586ee429b8da69d5a968d76db95f6d483d73a24c00d564f37c84/68747470733a2f2f636f6465636f762e696f2f67682f42756469626173652f62756469626173652f67726170682f62616467652e7376673f746f6b656e3d453857325a4658514f48" data-canonical-src="https://codecov.io/gh/Budibase/budibase/graph/badge.svg?token=E8W2ZFXQOH" style="max-width: 100%;">
   </a>
 </p>
-
-<h3 align="center">
-  <a href="https://account.budibase.app/register">Get started - we host (Budibase Cloud)</a>
-  <span> · </span>
-  <a href="https://docs.budibase.com/docs/hosting-methods">Get started - you host (Docker, K8s, DO)</a>
-  <span> · </span>
-  <a href="https://docs.budibase.com/docs">Docs</a>
-  <span> · </span>
-  <a href="https://github.com/Budibase/budibase/discussions?discussions_q=category%3AIdeas">Feature request</a>
-  <span> · </span>
-  <a href="https://github.com/Budibase/budibase/issues">Report a bug</a>
-  <span> · </span>
-  Support: <a href="https://github.com/Budibase/budibase/discussions">Discussions</a>
+<h3 align="center" tabindex="-1" dir="auto"><a id="user-content---get-started---we-host-budibase-cloud------get-started---you-host-docker-k8s-do------docs------feature-request------report-a-bug------support-discussions" class="anchor" aria-hidden="true" tabindex="-1" href="#--get-started---we-host-budibase-cloud------get-started---you-host-docker-k8s-do------docs------feature-request------report-a-bug------support-discussions"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>
+  <a href="https://account.budibase.app/register" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开始使用 - 我们托管（Budibase Cloud）</font></font></a>
+  <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">·</font></font></span>
+  <a href="https://docs.budibase.com/docs/hosting-methods" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开始使用 - 您托管（Docker、K8s、DO）</font></font></a>
+  <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">·</font></font></span>
+  <a href="https://docs.budibase.com/docs" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></a>
+  <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">·</font></font></span>
+  <a href="https://github.com/Budibase/budibase/discussions?discussions_q=category%3AIdeas"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">功能请求</font></font></a>
+  <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">·</font></font></span>
+  <a href="https://github.com/Budibase/budibase/issues"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">报告错误</font></font></a>
+  <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">·</font></font></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+  支持：</font></font><a href="https://github.com/Budibase/budibase/discussions"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">讨论</font></font></a>
 </h3>
-
-<br /><br />
-## ✨ Features
-
-### Build and ship real software 
-Unlike other platforms, with Budibase you build and ship single page applications. Budibase applications have performance baked in and can be designed responsively, providing your users with a great experience.
-<br /><br />
-
-### Open source and extensible
-Budibase is open-source - licensed as GPL v3. This should fill you with confidence that Budibase will always be around. You can also code against Budibase or fork it and make changes as you please, providing a developer-friendly experience.
-<br /><br />
-
-### Load data or start from scratch
-Budibase pulls in data from multiple sources, including MongoDB, CouchDB, PostgreSQL, MySQL, Airtable, S3, DynamoDB, or a REST API. And unlike other platforms, with Budibase you can start from scratch and create business apps with no datasources. [Request new datasources](https://github.com/Budibase/budibase/discussions?discussions_q=category%3AIdeas).
-
-<p align="center">
-  <img alt="Budibase data" src="https://res.cloudinary.com/daog6scxm/image/upload/v1636970242/Out%20of%20beta%20launch/data_n1tlhf.png">
+<p dir="auto"><br><br></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content--features" class="anchor" aria-hidden="true" tabindex="-1" href="#-features"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✨ 特点</font></font></h2>
+<h3 tabindex="-1" dir="auto"><a id="user-content-build-and-ship-real-software" class="anchor" aria-hidden="true" tabindex="-1" href="#build-and-ship-real-software"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">构建并发布真实的软件</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">与其他平台不同，您可以使用 Budibase 构建和发布单页应用程序。</font><font style="vertical-align: inherit;">Budibase 应用程序具有内置性能，并且可以响应式设计，为用户提供良好的体验。
+</font></font><br><br></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content-open-source-and-extensible" class="anchor" aria-hidden="true" tabindex="-1" href="#open-source-and-extensible"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开源且可扩展</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Budibase 是开源的 - 许可为 GPL v3。</font><font style="vertical-align: inherit;">这会让您充满信心，Budibase 将永远存在。</font><font style="vertical-align: inherit;">您还可以针对 Budibase 进行编码或分叉它并根据需要进行更改，从而提供开发人员友好的体验。
+</font></font><br><br></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content-load-data-or-start-from-scratch" class="anchor" aria-hidden="true" tabindex="-1" href="#load-data-or-start-from-scratch"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">加载数据或从头开始</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Budibase 从多个来源提取数据，包括 MongoDB、CouchDB、PostgreSQL、MySQL、Airtable、S3、DynamoDB 或 REST API。</font><font style="vertical-align: inherit;">与其他平台不同的是，使用 Budibase，您可以从头开始并创建没有数据源的业务应用程序。</font></font><a href="https://github.com/Budibase/budibase/discussions?discussions_q=category%3AIdeas"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请求新的数据源</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<p align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/83719fa90e95e63894b85090d86fbe2266eab32825951ca10e1de703522788ba/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f64616f67367363786d2f696d6167652f75706c6f61642f76313638303238313739382f75692f646174615f6b6c62756e612e706e67"><img alt="布迪数据库数据" src="https://camo.githubusercontent.com/83719fa90e95e63894b85090d86fbe2266eab32825951ca10e1de703522788ba/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f64616f67367363786d2f696d6167652f75706c6f61642f76313638303238313739382f75692f646174615f6b6c62756e612e706e67" data-canonical-src="https://res.cloudinary.com/daog6scxm/image/upload/v1680281798/ui/data_klbuna.png" style="max-width: 100%;"></a>
 </p>
-<br /><br />
-
-### Design and build apps with powerful pre-made components
-
-Budibase comes out of the box with beautifully designed, powerful components which you can use like building blocks to build your UI. We also expose a lot of your favourite CSS styling options so you can go that extra creative mile. [Request new component](https://github.com/Budibase/budibase/discussions?discussions_q=category%3AIdeas).
-
-<p align="center">
-  <img alt="Budibase design" src="https://res.cloudinary.com/daog6scxm/image/upload/v1636970243/Out%20of%20beta%20launch/design-like-a-pro_qhlfeu.gif">
+<br><br>
+<h3 tabindex="-1" dir="auto"><a id="user-content-design-and-build-apps-with-powerful-pre-made-components" class="anchor" aria-hidden="true" tabindex="-1" href="#design-and-build-apps-with-powerful-pre-made-components"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用强大的预制组件设计和构建应用程序</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Budibase 开箱即用，提供设计精美、功能强大的组件，您可以像构建块一样使用它们来构建 UI。</font><font style="vertical-align: inherit;">我们还公开了许多您最喜欢的 CSS 样式选项，以便您可以发挥额外的创意。</font></font><a href="https://github.com/Budibase/budibase/discussions?discussions_q=category%3AIdeas"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请求新组件</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<p align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ec76ae85d23ae295ef1a56e17c24e3024366c228a0618abf735b14a5a05defa2/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f64616f67367363786d2f696d6167652f75706c6f61642f76313637353433373136372f75692f666f726d5f32785f6d626c6938792e706e67"><img alt="布迪贝斯设计" src="https://camo.githubusercontent.com/ec76ae85d23ae295ef1a56e17c24e3024366c228a0618abf735b14a5a05defa2/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f64616f67367363786d2f696d6167652f75706c6f61642f76313637353433373136372f75692f666f726d5f32785f6d626c6938792e706e67" data-canonical-src="https://res.cloudinary.com/daog6scxm/image/upload/v1675437167/ui/form_2x_mbli8y.png" style="max-width: 100%;"></a>
 </p>
-<br /><br />
-
-### Automate processes, integrate with other tools, and connect to webhooks
-Save time by automating manual processes and workflows. From connecting to webhooks, to automating emails, simply tell Budibase what to do and let it work for you. You can easily [create new automations for Budibase here](https://github.com/Budibase/automations) or [Request new automation](https://github.com/Budibase/budibase/discussions?discussions_q=category%3AIdeas).
-
-<p align="center">
-  <img alt="Budibase automations" src="https://res.cloudinary.com/daog6scxm/image/upload/v1636970486/Out%20of%20beta%20launch/automation_riro7u.png">
+<br><br>
+<h3 tabindex="-1" dir="auto"><a id="user-content-automate-processes-integrate-with-other-tools-and-connect-to-webhooks" class="anchor" aria-hidden="true" tabindex="-1" href="#automate-processes-integrate-with-other-tools-and-connect-to-webhooks"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自动化流程、与其他工具集成并连接到 Webhooks</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">通过自动化手动流程和工作流程来节省时间。</font><font style="vertical-align: inherit;">从连接到 webhook 到自动发送电子邮件，只需告诉 Budibase 做什么，然后让它为您服务。</font><font style="vertical-align: inherit;">您可以在此处轻松</font></font><a href="https://github.com/Budibase/automations"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为 Budibase 创建新的自动化</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">或</font></font><a href="https://github.com/Budibase/budibase/discussions?discussions_q=category%3AIdeas"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请求新的自动化</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。
+</font></font><br><br></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content-integrate-with-your-favorite-tools" class="anchor" aria-hidden="true" tabindex="-1" href="#integrate-with-your-favorite-tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">与您最喜欢的工具集成</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Budibase 与许多流行的工具集成，使您可以构建完全适合您的堆栈的应用程序。</font></font></p>
+<p align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1fd74f64473ad3668b9a57e7e2403e7ae0799f018cc27c012445dae5db04a270/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f64616f67367363786d2f696d6167652f75706c6f61642f76313638303139353232382f75692f6175746f6d6174655f6667397a30372e706e67"><img alt="布迪库集成" src="https://camo.githubusercontent.com/1fd74f64473ad3668b9a57e7e2403e7ae0799f018cc27c012445dae5db04a270/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f64616f67367363786d2f696d6167652f75706c6f61642f76313638303139353232382f75692f6175746f6d6174655f6667397a30372e706e67" data-canonical-src="https://res.cloudinary.com/daog6scxm/image/upload/v1680195228/ui/automate_fg9z07.png" style="max-width: 100%;"></a>
 </p>
-<br /><br />
-
-### Integrate with your favorite tools
-Budibase integrates with a number of popular tools allowing you to build apps that perfectly fit your stack.
-
-<p align="center">
-  <img alt="Budibase integrations" src="https://res.cloudinary.com/daog6scxm/image/upload/v1636970242/Out%20of%20beta%20launch/integrations_kc7dqt.png">
-</p>
-<br /><br />
-
-### Admin paradise
-Budibase is made to scale. With Budibase, you can self-host on your own infrastructure and globally manage users, onboarding, SMTP, apps, groups, theming and more. You can also provide users/groups with an app portal and disseminate user-management to the group manager.
-
-- Checkout the promo video: https://youtu.be/xoljVpty_Kw
-
-<br />
-
----
-
-<br />
-
-
-## Budibase Public API
-As with anything that we build in Budibase, our new public API is simple to use, flexible, and introduces new extensibility. To summarize, the Budibase API enables:
-
-- Budibase as a backend
-- Interoperability
-
-
-#### Docs
-You can learn more about the Budibase API at the following places:
-
-- [General documentation](https://docs.budibase.com/docs/public-api) : Learn how to get your API key, how to use spec, and how to use with Postman
-- [Interactive API documentation](https://docs.budibase.com/reference/post_applications) : Learn how to interact with the API
-
-#### Guides
-
-- [Build an app with Budibase and Next.js](https://budibase.com/blog/building-a-crud-app-with-budibase-and-next.js/)
-
-## 🏁 Get started
-
-Deploy Budibase self-hosted in your existing infrastructure, using Docker, Kubernetes, and Digital Ocean.
-Or use Budibase Cloud if you don't need to self-host, and would like to get started quickly.
-
-### [Get started with self-hosting Budibase](https://docs.budibase.com/docs/hosting-methods)
-
-- [Docker - single ARM compatible image](https://docs.budibase.com/docs/docker)
-- [Docker Compose](https://docs.budibase.com/docs/docker-compose)
-- [Kubernetes](https://docs.budibase.com/docs/kubernetes-k8s)
-- [Digital Ocean](https://docs.budibase.com/docs/digitalocean)
-- [Portainer](https://docs.budibase.com/docs/portainer)
-
-
-### [Get started with Budibase Cloud](https://budibase.com)
-
-
-<br /><br />
-
-## 🎓 Learning Budibase
-
-The Budibase documentation [lives here](https://docs.budibase.com/docs).
-<br />
-
-
-<br /><br />
-
-## 💬 Community
-
-If you have a question or would like to talk with other Budibase users and join our community, please hop over to [Github discussions](https://github.com/Budibase/budibase/discussions)
-
-<br /><br /><br />
-
-
-## ❗ Code of conduct
-
-Budibase is dedicated to providing a welcoming, diverse, and harrassment-free experience for everyone. We expect everyone in the Budibase community to abide by our [**Code of Conduct**](https://github.com/Budibase/budibase/blob/HEAD/docs/CODE_OF_CONDUCT.md). Please read it.
-<br />
-
-
-<br /><br />
-
-
-## 🙌 Contributing to Budibase
-
-From opening a bug report to creating a pull request: every contribution is appreciated and welcomed. If you're planning to implement a new feature or change the API please create an issue first. This way we can ensure your work is not in vain.
-Environment setup instructions are available for [Debian](https://github.com/Budibase/budibase/tree/HEAD/docs/DEV-SETUP-DEBIAN.md) and [MacOSX](https://github.com/Budibase/budibase/tree/HEAD/docs/DEV-SETUP-MACOSX.md)
-
-### Not Sure Where to Start?
-A good place to start contributing, is the [First time issues project](https://github.com/Budibase/budibase/projects/22).
-
-### How the repository is organized
-Budibase is a monorepo managed by lerna. Lerna manages the building and publishing of the budibase packages. At a high level, here are the packages that make up Budibase.
-
-- [packages/builder](https://github.com/Budibase/budibase/tree/HEAD/packages/builder) - contains code for the budibase builder client side svelte application.
-
-- [packages/client](https://github.com/Budibase/budibase/tree/HEAD/packages/client) - A module that runs in the browser responsible for reading JSON definition and creating living, breathing web apps from it.
-
-- [packages/server](https://github.com/Budibase/budibase/tree/HEAD/packages/server) - The budibase server. This Koa app is responsible for serving the JS for the builder and budibase apps, as well as providing the API for interaction with the database and file system.
-
-For more information, see [CONTRIBUTING.md](https://github.com/Budibase/budibase/blob/HEAD/docs/CONTRIBUTING.md)
-
-<br /><br />
-
-
-## 📝 License
-
-Budibase is open-source, licensed as [GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html). The client and component libraries are licensed as [MPL](https://directory.fsf.org/wiki/License:MPL-2.0) - so the apps that you build can be licensed however you like.
-
-<br /><br />
-
-## ⭐ Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/Budibase/budibase.svg)](https://starchart.cc/Budibase/budibase)
-
-If you are having issues between updates of the builder, please use the guide [here](https://github.com/Budibase/budibase/blob/HEAD/docs/CONTRIBUTING.md#troubleshooting) to clear down your environment.
-
-<br /><br />
-
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-
+<br><br>
+<h3 tabindex="-1" dir="auto"><a id="user-content-deploy-with-confidence-and-security" class="anchor" aria-hidden="true" tabindex="-1" href="#deploy-with-confidence-and-security"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">充满信心和安全地部署</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Budibase 是按比例制作的。</font><font style="vertical-align: inherit;">借助 Budibase，您可以在自己的基础设施上自行托管并全局管理用户、入职、SMTP、应用程序、组、主题等。</font><font style="vertical-align: inherit;">您还可以为用户/群组提供应用程序门户，并将用户管理分发给群组管理员。</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">查看宣传视频：</font></font><a href="https://youtu.be/xoljVpty_Kw" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://youtu.be/xoljVpty_Kw</font></font></a></li>
+</ul>
+<br>
+<hr>
+<br>
+<h2 tabindex="-1" dir="auto"><a id="user-content-budibase-public-api" class="anchor" aria-hidden="true" tabindex="-1" href="#budibase-public-api"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Budibase公共API</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">与我们在 Budibase 中构建的任何内容一样，我们的新公共 API 易于使用、灵活，并引入了新的可扩展性。</font><font style="vertical-align: inherit;">总而言之，Budibase API 支持：</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Budibase 作为后端</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">互操作性</font></font></li>
+</ul>
+<h4 tabindex="-1" dir="auto"><a id="user-content-docs" class="anchor" aria-hidden="true" tabindex="-1" href="#docs"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></h4>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您可以在以下位置了解有关 Budibase API 的更多信息：</font></font></p>
+<ul dir="auto">
+<li><a href="https://docs.budibase.com/docs/public-api" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">一般文档</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：了解如何获取 API 密钥、如何使用规范以及如何使用 Postman</font></font></li>
+<li><a href="https://docs.budibase.com/reference/post_applications" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">交互式 API 文档</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：了解如何与 API 交互</font></font></li>
+</ul>
+<p dir="auto"><br><br></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content--get-started" class="anchor" aria-hidden="true" tabindex="-1" href="#-get-started"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🏁 开始吧</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在现有基础设施上使用 Docker、Kubernetes 和 Digital Ocean 部署 Budibase。</font><font style="vertical-align: inherit;">或者，如果您不需要自行托管并希望快速开始，请使用 Budibase Cloud。</font></font></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content-get-started-with-self-hosting-budibase" class="anchor" aria-hidden="true" tabindex="-1" href="#get-started-with-self-hosting-budibase"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><a href="https://docs.budibase.com/docs/hosting-methods" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开始使用自托管 Budibase</font></font></a></h3>
+<ul dir="auto">
+<li><a href="https://docs.budibase.com/docs/docker" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Docker - 单个 ARM 兼容映像</font></font></a></li>
+<li><a href="https://docs.budibase.com/docs/docker-compose" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Docker 组合</font></font></a></li>
+<li><a href="https://docs.budibase.com/docs/kubernetes-k8s" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">库伯内斯</font></font></a></li>
+<li><a href="https://docs.budibase.com/docs/digitalocean" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数字海洋</font></font></a></li>
+<li><a href="https://docs.budibase.com/docs/portainer" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">波尔泰纳</font></font></a></li>
+</ul>
+<h3 tabindex="-1" dir="auto"><a id="user-content-get-started-with-budibase-cloud" class="anchor" aria-hidden="true" tabindex="-1" href="#get-started-with-budibase-cloud"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><a href="https://budibase.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开始使用 Budibase 云</font></font></a></h3>
+<p dir="auto"><br><br></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content--learning-budibase" class="anchor" aria-hidden="true" tabindex="-1" href="#-learning-budibase"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🎓 学习 Budibase</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Budibase 文档</font></font><a href="https://docs.budibase.com/docs" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">位于此处</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。
+</font></font><br></p>
+<p dir="auto"><br><br></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content--community" class="anchor" aria-hidden="true" tabindex="-1" href="#-community"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💬 社区</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您有疑问或想与其他 Budibase 用户交谈并加入我们的社区，请跳转到</font></font><a href="https://github.com/Budibase/budibase/discussions"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Github 讨论</font></font></a></p>
+<p dir="auto"><br><br><br></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content--code-of-conduct" class="anchor" aria-hidden="true" tabindex="-1" href="#-code-of-conduct"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">❗ 行为准则</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Budibase 致力于为每个人提供热情、多样化且无骚扰的体验。</font><font style="vertical-align: inherit;">我们希望 Budibase 社区中的每个人都遵守我们的</font></font><a href="https://github.com/Budibase/budibase/blob/HEAD/docs/CODE_OF_CONDUCT.md"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">行为准则</font></font></strong></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font><font style="vertical-align: inherit;">请阅读它。
+</font></font><br></p>
+<p dir="auto"><br><br></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content--contributing-to-budibase" class="anchor" aria-hidden="true" tabindex="-1" href="#-contributing-to-budibase"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🙌 为 Budibase 做出贡献</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">从打开错误报告到创建拉取请求：每项贡献都会受到赞赏和欢迎。</font><font style="vertical-align: inherit;">如果您计划实施新功能或更改 API，请先创建问题。</font><font style="vertical-align: inherit;">这样，我们就可以确保您的工作不会白费。</font><font style="vertical-align: inherit;">环境设置说明可</font></font><a href="https://github.com/Budibase/budibase/tree/HEAD/docs/CONTRIBUTING.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在此处</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">获取。</font></font></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content-not-sure-where-to-start" class="anchor" aria-hidden="true" tabindex="-1" href="#not-sure-where-to-start"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">不知道从哪里开始？</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://github.com/Budibase/budibase/projects/22"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">第一次发布项目</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">是一个开始贡献的好地方</font><font style="vertical-align: inherit;">。</font></font></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content-how-the-repository-is-organized" class="anchor" aria-hidden="true" tabindex="-1" href="#how-the-repository-is-organized"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">存储库是如何组织的</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Budibase 是由 lerna 管理的单一仓库。</font><font style="vertical-align: inherit;">Lerna 管理 budibase 包的构建和发布。</font><font style="vertical-align: inherit;">从较高的层面来看，以下是构成 Budibase 的软件包。</font></font></p>
+<ul dir="auto">
+<li>
+<p dir="auto"><a href="https://github.com/Budibase/budibase/tree/HEAD/packages/builder"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">packages/builder</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 包含 budibase builder 客户端 svelte 应用程序的代码。</font></font></p>
+</li>
+<li>
+<p dir="auto"><a href="https://github.com/Budibase/budibase/tree/HEAD/packages/client"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">packages/client</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 在浏览器中运行的模块，负责读取 JSON 定义并从中创建生动的 Web 应用程序。</font></font></p>
+</li>
+<li>
+<p dir="auto"><a href="https://github.com/Budibase/budibase/tree/HEAD/packages/server"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">packages/server</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - budibase 服务器。</font><font style="vertical-align: inherit;">这个 Koa 应用程序负责为构建器和 budibase 应用程序提供 JS 服务，并提供用于与数据库和文件系统交互的 API。</font></font></p>
+</li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">有关更多信息，请参阅</font></font><a href="https://github.com/Budibase/budibase/blob/HEAD/docs/CONTRIBUTING.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CONTRIBUTING.md</font></font></a></p>
+<p dir="auto"><br><br></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content--license" class="anchor" aria-hidden="true" tabindex="-1" href="#-license"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📝 许可证</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Budibase 是开源的，许可为</font></font><a href="https://www.gnu.org/licenses/gpl-3.0.en.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GPL v3</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font><font style="vertical-align: inherit;">客户端和组件库被许可为</font></font><a href="https://directory.fsf.org/wiki/License:MPL-2.0" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MPL</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 因此您构建的应用程序可以按照您喜欢的方式获得许可。</font></font></p>
+<p dir="auto"><br><br></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content--stargazers-over-time" class="anchor" aria-hidden="true" tabindex="-1" href="#-stargazers-over-time"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">⭐ 随着时间的推移观星者</font></font></h2>
+<p dir="auto"><a href="https://starchart.cc/Budibase/budibase" rel="nofollow"><img src="https://camo.githubusercontent.com/6bca33e5c971bb1df8e7f4dd6482347cc5f82ddd57e63d8243eecbe305935c60/68747470733a2f2f7374617263686172742e63632f42756469626173652f62756469626173652e737667" alt="随着时间的推移观星者" data-canonical-src="https://starchart.cc/Budibase/budibase.svg" style="max-width: 100%;"></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您在更新构建器期间遇到问题，请使用</font></font><a href="https://github.com/Budibase/budibase/blob/HEAD/docs/CONTRIBUTING.md#troubleshooting"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">此处的</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">指南来清理您的环境。</font></font></p>
+<p dir="auto"><br><br></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-contributors-" class="anchor" aria-hidden="true" tabindex="-1" href="#contributors-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献者✨</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">感谢这些优秀的人（</font></font><a href="https://allcontributors.org/docs/en/emoji-key" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">表情符号键</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）：</font></font></p>
 <a href="https://github.com/Budibase/budibase/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Budibase/budibase" />
+  <img src="https://camo.githubusercontent.com/15e6c44d87a384b847954dbd2c5e83774ec72dbbb0f3b6d2d9b54abdb204e858/68747470733a2f2f636f6e747269622e726f636b732f696d6167653f7265706f3d42756469626173652f6275646962617365" data-canonical-src="https://contrib.rocks/image?repo=Budibase/budibase" style="max-width: 100%;">
 </a>
-
-Made with [contrib.rocks](https://contrib.rocks).
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用</font></font><a href="https://contrib.rocks" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">contrib.rocks</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">制作。</font></font></p>
+</article></div>
